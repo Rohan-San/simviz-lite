@@ -1,3 +1,7 @@
+# Build Details:
+
+> [Click Here!](https://expo.dev/accounts/rohan-san/projects/simviz-lite/builds/9029324d-97f2-4321-864c-794209623823)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

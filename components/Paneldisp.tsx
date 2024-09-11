@@ -42,7 +42,7 @@ const Paneldisp: React.FC = () => {
         <View key={index} style={{ marginBottom: 20 }}>
           <Image
             source={{
-              uri: `http://192.168.0.110:3000/render/d-solo/${selectedDashboard}?orgId=1&panelId=${panelId}&width=500&height=250&scale=1&tz=Asia%2FCalcutta`,
+              uri: `http://localhost:3000/render/d-solo/${selectedDashboard}?orgId=1&panelId=${panelId}&width=500&height=250&scale=1&tz=Asia%2FCalcutta`,
             }}
             style={{ width: '100%', height: 200 }}
             resizeMode="contain"
